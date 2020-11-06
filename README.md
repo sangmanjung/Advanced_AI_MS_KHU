@@ -9,5 +9,5 @@
 - Daniel Jurafsky, James H. Martin - Speech and Language Processing-Prentice Hall (2008)
   
 #### Contents
-- presentation (pdf files).
+- presentation (pptx files).
 - Python codes.
