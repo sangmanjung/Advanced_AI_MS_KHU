@@ -1,6 +1,6 @@
 ### Advanced_AI_MS_KHU
   
-- Homeworks and implementation codes for Advanced AI (graduate school in KHU)
+- Homeworks and implementation codes for Advanced AI (graduate school of KHU)
 
 #### Instructor
 - Prof. Sungbae Park
